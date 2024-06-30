@@ -1,11 +1,10 @@
-# Nakhate Harika
+# Kailas K
 
 ### About Me
 
 > - 🔭 I’m currently working on honing my programming skills and exploring new technologies.
 > - 🌱 I’m constantly learning and expanding my knowledge in the field of software development.
-> - 🎓 Graduated Btech ECE @ LBS Institute Of Technology for Women's Trivandrum.
-> - Fun fact about me: I can speak six languages!🌍🗣️
+> - 🎓 Graduated Btech CSE from Nehru college of engineering and research centre.
 
 
 
